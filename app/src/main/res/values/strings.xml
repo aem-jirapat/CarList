@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Car Seller</string>
+
+    <string name="text_show">Contact</string>
+    <string name="text_des">Tel . 090-0000-xxxx</string>
+
+    <string name="text_login">Login</string>
+
+    <string name="text_email">Email</string>
+    <string name="fill_email">Filled your Email</string>
+
+    <string name="text_password">Password</string>
+    <string name="fill_password">Filled your Password</string>
+
+    <string name="text_done">DONE</string>
+</resources>
